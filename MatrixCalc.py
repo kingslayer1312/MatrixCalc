@@ -7,8 +7,8 @@ root = tk.Tk()
 root.title("MatrixCalc")
 root.geometry('575x700')
 root['bg'] = '#5D6D7E'
-font = 'Avenir 14'
 root.resizable(0, 0)
+font = 'Avenir 14'
 
 
 def enter(event):
